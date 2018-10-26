@@ -3,7 +3,7 @@
  */
 package com.nissan.trainingcorejava;
 
-import java.util.Scanner;
+import java.util.*;
 import java.sql.*;
 
 /**
